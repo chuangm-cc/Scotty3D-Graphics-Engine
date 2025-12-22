@@ -1,7 +1,6 @@
 # A1 – Software Rasterization Pipeline
 
 ## Overview
-## Overview
 Implements a complete software rasterization pipeline in C++, mirroring the core stages of a modern GPU.
 
 ---
