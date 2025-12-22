@@ -9,7 +9,7 @@ Scotty3D repository:
 
 ## Scotty3D Codebase Structure
 
-The Scotty3D framework itself is organized into the following core directories.
+The Scotty3D framework has the following core directories.
 
 ### deps/
 Third-party dependencies required by Scotty3D.
