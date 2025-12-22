@@ -26,6 +26,8 @@ Implement ray–sphere and ray–triangle intersections.
 ### Result
 
 ![Your creation](A3-writeup/student/a1t22.png)
+![Your creation](A3-writeup/student/a1t23.png)
+![Your creation](A3-writeup/student/a1t24.png)
 
 ![Your creation](A3-writeup/student/task2.png)
 
@@ -37,7 +39,7 @@ Implement ray–sphere and ray–triangle intersections.
 Build and traverse BVH for efficient ray-scene intersection.
 
 ### Result
-(graded by tests + performance + code review; no required screenshots in write-up)
+![Your creation](A3-writeup/student/t31.png)
 
 ---
 
@@ -47,7 +49,9 @@ Build and traverse BVH for efficient ray-scene intersection.
 Implement recursive path tracing integrator (Lambertian correctness).
 
 ### Result
-(graded by tests; no required screenshots)
+![Your creation](A3-writeup/student/t4.png)
+![Your creation](A3-writeup/student/t42.png)
+
 
 ---
 
@@ -57,7 +61,7 @@ Implement recursive path tracing integrator (Lambertian correctness).
 Support mirror/refraction/glass materials.
 
 ### Result
-(graded by tests; no required screenshots)
+![Your creation](A3-writeup/student/t5.png)
 
 ---
 
@@ -67,7 +71,8 @@ Support mirror/refraction/glass materials.
 Improve quality/speed via direct lighting sampling.
 
 ### Result
-(graded by tests; no required screenshots)
+![Your creation](A3-writeup/student/t6.png)
+![Your creation](A3-writeup/student/t62.png)
 
 ---
 
@@ -77,7 +82,8 @@ Improve quality/speed via direct lighting sampling.
 Implement environment map importance sampling (CDF/PDF usage, Jacobian, correct parameterization).
 
 ### Result
-(graded by tests; no required screenshots)
+![Your creation](A3-writeup/student/t71.png)
+![Your creation](A3-writeup/student/t72.png)
 
 ---
 

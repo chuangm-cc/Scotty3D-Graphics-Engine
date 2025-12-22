@@ -71,7 +71,7 @@ I do **not** want to use reference A3T2 solutions for this task (answered â€œnoâ
 ## Animated Video (FINAL)
 
 Animation file:
-- please check `animation2.mp4`
+- please check ![Your creation](A4-writeup/student/animation2.mp4)
 
 Description:
 A cow moves and jumps on a ball, then continues moving until being stopped by a cube.

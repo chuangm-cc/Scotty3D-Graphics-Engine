@@ -26,6 +26,8 @@ Rasterize wireframe lines (diamond-exit rule), handle endpoint edge cases, pass 
 
 ### Result
 
+![Rasterize cubes wireframe](A1-writeup/student/task2.1.png)
+
 All red:
 
 ![Rasterize cubes wireframe](A1-writeup/student/task2.2.png)
@@ -102,9 +104,11 @@ Implement screen-space + perspective-correct interpolation and compute derivativ
 ## A1T6 – Mipmapping
 
 **Requirement (summary):**
-Implement LOD, mip generation, and texture sampling (incl. trilinear).
+Implement LOD, mip generation, and texture sampling.
 
 ### Result
+
+![Rasterize smooth and correct cubes](A1-writeup/student/task6.png)
 
 ![Rasterize smooth and correct cubes](A1-writeup/student/test6.png)
 
