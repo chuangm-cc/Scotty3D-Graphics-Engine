@@ -39,12 +39,6 @@ Unit and integration tests used to validate correctness of geometry operations, 
 On top of the Scotty3D framework, the following major graphics subsystems were implemented.  
 Each folder below contains a dedicated README with task-level descriptions, implementation details, and visual results.
 
-- [A0-Scotty3D-Setup-and-Debugging](./A0-Scotty3D-Setup-and-Debugging)
-- [A1-Software-Rasterizer](./A1-Software-Rasterizer)
-- [A2-Halfedge-Mesh-Editing](./A2-Halfedge-Mesh-Editing)
-- [A3-Path-Tracing-Renderer](./A3-Path-Tracing-Renderer)
-- [A4-Animation-Skinning-Particles](./A4-Animation-Skinning-Particles)
-
 ---
 
 ## A0 – Scotty3D Setup and Debugging  
